@@ -1,0 +1,13 @@
+---
+build/test/mocks/mock_sapi_pwm.c:
+- TEST
+build/test/mocks/mock_sapi_gpio.c:
+- TEST
+src/motores.c:
+- TEST
+build/test/mocks/mock_com.c:
+- TEST
+build/test/mocks/mock_dp.c:
+- TEST
+src/shell.c:
+- TEST

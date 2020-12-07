@@ -1,0 +1,62 @@
+---
+:source:
+  :path: test
+  :file: test_shell.c
+:successes:
+- :test: test_no_se_recibio_nada
+  :line: 62
+  :message: ''
+  :unity_test_time: 0
+- :test: test_se_recibio_un_comando_valido
+  :line: 66
+  :message: ''
+  :unity_test_time: 0
+- :test: test_se_recibio_un_comando_no_valido
+  :line: 71
+  :message: ''
+  :unity_test_time: 0
+- :test: test_se_recibio_un_nivel_de_ubral_valido
+  :line: 76
+  :message: ''
+  :unity_test_time: 0
+- :test: test_se_recibio_un_nivel_de_ubral_invalido
+  :line: 82
+  :message: ''
+  :unity_test_time: 0
+- :test: test_se_recibio_una_cantidad_de_adquisiciones_valida
+  :line: 88
+  :message: ''
+  :unity_test_time: 0
+- :test: test_se_recibio_una_cantidad_de_adquisiciones_invalidas
+  :line: 94
+  :message: ''
+  :unity_test_time: 0
+- :test: test_se_recibio_una_cantidad_de_muestras_valida
+  :line: 100
+  :message: ''
+  :unity_test_time: 0
+- :test: test_se_recibio_una_cantidad_de_muestras_invalidas
+  :line: 106
+  :message: ''
+  :unity_test_time: 0
+- :test: test_se_armo_el_sistema
+  :line: 112
+  :message: ''
+  :unity_test_time: 0
+- :test: test_se_desarmo_el_sistema
+  :line: 118
+  :message: ''
+  :unity_test_time: 0
+- :test: test_se_recibio_un_estado_incorrecto
+  :line: 124
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 12
+  :passed: 12
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.0013744239986408502

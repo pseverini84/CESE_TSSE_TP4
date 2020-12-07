@@ -1,0 +1,6 @@
+---
+- "/var/lib/gems/2.7.0/gems/ceedling-0.30.0/vendor/unity/src/unity.h"
+- src/motores.h
+- build/test/mocks/mock_sapi_pwm.h
+- build/test/mocks/mock_sapi_gpio.h
+- build/temp/_test_motores.c
